@@ -11,12 +11,14 @@
             "id": "0d33e40fa7a3af0e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20250930224515.png"
+                "file": "Lesson-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250930224515"
+              "icon": "lucide-file",
+              "title": "Lesson-02"
             }
           }
         ]
@@ -167,12 +169,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "424156cfdea31107",
+  "active": "0d33e40fa7a3af0e",
   "lastOpenFiles": [
+    "assets/Pasted image 20250930224515.png",
     "Lesson-02.md",
     "assets",
     "assets/Pasted image 20250930224559.png",
-    "assets/Pasted image 20250930224515.png",
     "Pasted image 20250930224413.png",
     "Lesson-01.md",
     "Lesson 1.md"

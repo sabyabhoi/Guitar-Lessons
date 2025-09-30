@@ -10,7 +10,7 @@
 # Basic Chord Shapes
 
 
-![[Pasted image 20250930224559.png]]
+![[assets/Pasted image 20250930224559.png]]
 
 
-![[Pasted image 20250930224515.png]]
+![[assets/Pasted image 20250930224515.png]]
